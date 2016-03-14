@@ -21,7 +21,7 @@ function draw() {
 
 	fill(0,0,255);
 	//ellipseMode(RADIUS);
-	ellipse(width / 2, height/ 2, radius / 2 ,radius);
+	ellipse(width / 2, height/ 2, radius, radius);
 }
 
 function keyPressed() {
