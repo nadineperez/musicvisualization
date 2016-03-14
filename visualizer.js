@@ -2,7 +2,7 @@ var audioFile;
 var amplitude;
 
 function preload() {
-	audioFile = loadSound('song.mp3');
+	audioFile = loadSound('06 Feel Good Inc.m4a');
 }
 
 function setup() {
